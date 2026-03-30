@@ -68,10 +68,5 @@ The project includes a dynamic dashboard using `matplotlib` to display:
 *   **Latency Metrics**: Performance comparison between different key sizes and hashing methods.
 *   **Security Properties**: Analysis of Confidentiality, Integrity, and Authentication (CIA).
 
-## 🛡️ License & Ethics
-This project is for **educational purposes only**. It was developed as part of an MSc research project. 
-*   **Author**: Sanjeet S. Giri
-*   **Legal**: The project respects the principles of the UK Data Protection Act and GDPR regarding responsible handling of cryptographic research.
-
 ---
 *Developed for the Cryptography Course - Winter Semester 2026*
